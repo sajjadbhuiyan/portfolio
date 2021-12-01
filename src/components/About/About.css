@@ -1,0 +1,54 @@
+.heading {
+  text-align: center;
+}
+
+.heading h2 {
+  font-size: 60px;
+  font-family: "Montserrat";
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+  padding: 80px 0px 0px 30px;
+  font-family: "Francois One", sans-serif;
+}
+
+.heading h2:after {
+  position: absolute;
+  content: "";
+  bottom: -7px;
+  left: 45.5%;
+  height: 5px;
+  width: 135px;
+  background-color: #35c2f8;
+}
+
+.education {
+  font-family: "Francois One", sans-serif;
+}
+
+.basicInfo {
+  font-family: "Francois One", sans-serif;
+}
+
+.basicInfo p {
+  display: inline;
+}
+
+.basicInfo span {
+  font-size: 20px;
+}
+
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Francois One", sans-serif;
+}
+
+/* ====responsive part start==== */
+@media only screen and (max-width: 688px) {
+  .heading h2:after {
+    bottom: -11px;
+    left: 31.5%;
+  }
+}

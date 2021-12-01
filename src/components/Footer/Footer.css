@@ -1,0 +1,15 @@
+.page-footer {
+  background-color: rgb(32, 32, 32);
+}
+
+.list-unstyled li {
+  text-decoration: none;
+}
+
+.content_style {
+  color: white;
+}
+
+.page-footer {
+  font-family: "Francois One", sans-serif;
+}

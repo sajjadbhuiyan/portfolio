@@ -1,0 +1,29 @@
+.service_img {
+  text-align: center;
+}
+
+.service_img img {
+  padding-top: 80px;
+}
+
+.service_content {
+  text-align: center;
+}
+
+.service_content h3 {
+  font-size: 16px;
+  font-family: "Montserrat";
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-top: 40px;
+  font-family: "Francois One", sans-serif;
+}
+
+.service_content p {
+  font-size: 16px;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  color: #777777;
+  padding-top: 20px;
+  font-family: "Francois One", sans-serif;
+}

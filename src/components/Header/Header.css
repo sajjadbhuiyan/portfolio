@@ -1,0 +1,27 @@
+@font-face {
+  src: url(../../../src/fonts/built\ titling\ bd.ttf);
+  font-family: buitl;
+}
+
+.logo {
+  font-family: buitl;
+  font-size: 40px;
+}
+
+.menu Nav.Link {
+  padding-left: 20px;
+}
+
+.bar {
+  position: absolute;
+  /* top: 10px; */
+  left: 0;
+  width: 100%;
+  z-index: 0;
+}
+
+/* ====responsive part start==== */
+@media only screen and (max-width: 688px) {
+  .bar {
+  }
+}

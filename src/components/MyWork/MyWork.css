@@ -1,0 +1,7 @@
+/* ====responsive part start==== */
+@media only screen and (max-width: 688px) {
+  .heading h2:after {
+    bottom: -11px;
+    left: 31.5%;
+  }
+}
