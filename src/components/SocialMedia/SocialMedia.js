@@ -3,14 +3,12 @@ import './SocialMedia.css';
 
 const SocialMedia = () => {
     return (
-        <div>
+        <div className='socilaUl'>
             <ul>
-  <li><a href=""><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
-  <li><a href=""><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
-  <li><a href=""><i class="fab fa-google-plus-g" aria-hidden="true"></i></a></li>
-  <li><a href=""><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
-  <li><a href=""><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
-</ul>
+                <li><a href=""><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
+                <li><a href=""><i class="fab fa-github" aria-hidden="true"></i></a></li>
+                <li><a href=""><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
+            </ul>
         </div>
     );
 };

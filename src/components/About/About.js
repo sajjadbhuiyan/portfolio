@@ -17,7 +17,7 @@ const About = () => {
                     <Col sm={12} md={8} className="pt-5 about">
                         <div>
                         <p>I am Md. Sajjad Bhuiyan Taki. In web development,  I have been working from 2020. In these 2 years,<br/> I seek myself  web is my passionate place. When I remain funny mood, I can do code and also sad mode.</p>
-                        <h1  className='education'>My Educatin</h1>
+                        <h1  className='education'>My Education</h1>
                         <p>Today, I am studying Bangaladesh University of Professinonls. My subject Disaster and Human Security Management. I have given my HSC from Notre Dame Colleng Dhaka</p>
                         <hr/>
                         <Row>

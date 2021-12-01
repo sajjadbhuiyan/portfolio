@@ -17,6 +17,7 @@ const Footer = () => {
             </div>
 
             <hr className="clearfix w-100 d-md-none pb-0"/>
+            
         </div>
     </div>
 
